@@ -1,0 +1,19 @@
+{
+  "name": "spacegun",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Space Gun: a top-down space shooter - 8 sectors, bosses, a workshop and survival mode, in one HTML page",
+  "author": "ALEXalesha",
+  "license": "MIT",
+  "homepage": "https://alexalesha.github.io/SpaceGun/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALEXalesha/SpaceGun.git"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1"
+  }
+}
